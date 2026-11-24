@@ -1,0 +1,6 @@
+A: Autos ligeros (Carros y Camionetas)				
+BTR: BUS DE TRANSITO RAPIDO					
+B: BUS
+BICI: Bicicleta	
+C: Vehículos de Carga
+M: Motocicletas
